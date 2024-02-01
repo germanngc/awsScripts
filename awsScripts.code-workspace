@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AWS Scripts",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+		},
+		"editor.wordWrap": "on"
+	}
+}
