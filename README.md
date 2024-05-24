@@ -8,6 +8,10 @@ This portion of code was intended for any AWS Account IAM user that contain the 
 
 ### 1. Create an env file
 
+```bash
+cp .env.example .env
+```
+
 ```.env
 AWS_ACCESS_KEY_ID=AAA...
 AWS_SECRET_ACCESS_KEY=yXAS...
